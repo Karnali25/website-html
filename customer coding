@@ -1,0 +1,123 @@
+<div class="parallax section db parallax-off" style="background-image:url('uploads/parallax_02.jpg');">
+        <div class="container">
+            <div class="row logos">
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="uploads/logo_01.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="uploads/logo_02.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="uploads/logo_03.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="uploads/logo_04.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="uploads/logo_05.png" alt="" class="img-repsonsive"></a>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
+                    <a href="#"><img src="uploads/logo_06.png" alt="" class="img-repsonsive"></a>
+                </div>
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+	
+	
+		<div id="hosting" class="section wb" style="background: rgb(248, 248, 248)">
+        <div class="container">
+           
+            <div class="row dev-list text-center">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+                    <div class="widget clearfix">
+                        <img src="uploads/kiwi.png" alt="" class="img-responsive">
+                        <div class="widget-title">
+                            <h3> We're Local</h3>
+                            
+                        </div>
+                        <!-- end title -->
+                           <p>Kiwi owned and operated since 2002, specialising in providing equipment, solutions and support services for broadband.</p>
+
+                        <hr> 
+                      
+                    </div><!--widget -->
+                </div><!-- end col -->
+
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
+                    <div class="widget clearfix">
+                        <img src="uploads/morden.png" alt="" class="img-responsive">
+                        <div class="widget-title">
+                            <h3>We're Modern</h3>
+                           
+                        </div>
+                        <!-- end title -->
+                        <p>Leveraging modern languages and tooling we built a better ACS suited for the modern world. </p>
+
+                        <hr> 
+
+                    
+
+                    </div><!--widget -->
+                </div><!-- end col -->
+
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
+                    <div class="widget clearfix">
+                        <img src="uploads/exp.png" alt="" class="img-responsive">
+                        <div class="widget-title">
+                            <h3>We're Experienced</h3>
+                          
+                        </div>
+                        <!-- end title -->
+                        <p>With 15+ years experience in telecommunications we understand the challenges of a modern ISP.
+                        <hr> 
+                      
+                    </div><!--widget -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+	
+	
+	
+	<div id="pricing" class="section lb">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3></h3>
+                <p >Est 2002, now 18 years in ICT, providing product, service & software support systems to Telcos / ISP’s.
+
+ <br> At Connectplay we believe in enhancing the broadband experience for both business and residential customers and consumers.
+ We are a 100% owned New Zealand Company, specialising in providing equipment, solutions and support services for broadband. </p>
+            </div><!-- end title -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+	
+	
+	
+	
+	
+	
+		<div class="row1">
+	       <p class="lead">Est 2002, now 18 years in ICT, providing product, service & software support systems to Telcos / ISP’s.
+
+                At Connectplay we believe in enhancing the broadband experience for both business and residential customers and consumers.
+                We are a 100% owned New Zealand Company, specialising in providing equipment, solutions and support services for broadband. </p>
+                <div class="col-md-6">
+                    <div class="message-box">
+                        <h4>ConnectPlay New Zealand</h4>
+                        <h2>Enhancing Broadband is what we do.Enhancing Broadband is what we do.</h2>
+                        <p class="lead">Connectplay imports and supports products and software from business partner Huawei to service the integrated telecommunications market in New Zealand. We support multi-vendor residential broadband access products and enterprise level VoIP, DSL & Fibre access products.</p>
+
+                        <p> Our primary focus is delivering real operational efficiencies, while improving the ISP customer experience though active management of Customers modem/routers and other CPE. </p>
+
+                        
+                    </div><!-- end messagebox -->
+                </div><!-- end col -->
+				
+				<div class="col-md-6">
+                    <div class="post-media wow fadeIn">
+                        <img src="uploads/n1.jpg" alt="image">
+                    </div><!-- end media -->
+                </div><!-- end col -->						
+				
+     </div><!-- end row -->
+			
